@@ -1,0 +1,2002 @@
+[  
+   {  
+      "continent_name":"Europe",
+      "country_name":"Andorra",
+      "iso_code":"AD",
+      "iso_code_3":"AND",
+      "zone_name":"Europe\/Andorra",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"United Arab Emirates",
+      "iso_code":"AE",
+      "iso_code_3":"ARE",
+      "zone_name":"Asia\/Dubai",
+      "offset":"GMT 04:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Afghanistan",
+      "iso_code":"AF",
+      "iso_code_3":"AFG",
+      "zone_name":"Asia\/Kabul",
+      "offset":"GMT 04:30"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Antigua and Barbuda",
+      "iso_code":"AG",
+      "iso_code_3":"ATG",
+      "zone_name":"America\/Antigua",
+      "offset":"GMT -04:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Anguilla",
+      "iso_code":"AI",
+      "iso_code_3":"AIA",
+      "zone_name":"America\/Anguilla",
+      "offset":"GMT -04:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Albania",
+      "iso_code":"AL",
+      "iso_code_3":"ALB",
+      "zone_name":"Europe\/Tirane",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Armenia",
+      "iso_code":"AM",
+      "iso_code_3":"ARM",
+      "zone_name":"Asia\/Yerevan",
+      "offset":"GMT 04:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Angola",
+      "iso_code":"AO",
+      "iso_code_3":"AGO",
+      "zone_name":"Africa\/Luanda",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"Antarctica",
+      "country_name":"Antarctica",
+      "iso_code":"AQ",
+      "iso_code_3":"ATA",
+      "zone_name":"Antarctica\/Vostok",
+      "offset":"GMT 06:00"
+   },
+   {  
+      "continent_name":"South America",
+      "country_name":"Argentina",
+      "iso_code":"AR",
+      "iso_code_3":"ARG",
+      "zone_name":"America\/Argentina\/Salta",
+      "offset":"GMT -03:00"
+   },
+   {  
+      "continent_name":"Oceania",
+      "country_name":"American Samoa",
+      "iso_code":"AS",
+      "iso_code_3":"ASM",
+      "zone_name":"Pacific\/Pago_Pago",
+      "offset":"GMT -11:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Austria",
+      "iso_code":"AT",
+      "iso_code_3":"AUT",
+      "zone_name":"Europe\/Vienna",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"Oceania",
+      "country_name":"Australia",
+      "iso_code":"AU",
+      "iso_code_3":"AUS",
+      "zone_name":"Australia\/Darwin",
+      "offset":"GMT 09:30"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Aruba",
+      "iso_code":"AW",
+      "iso_code_3":"ABW",
+      "zone_name":"America\/Aruba",
+      "offset":"GMT -04:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"\u00c5land",
+      "iso_code":"AX",
+      "iso_code_3":"ALA",
+      "zone_name":"Europe\/Mariehamn",
+      "offset":"GMT 02:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Azerbaijan",
+      "iso_code":"AZ",
+      "iso_code_3":"AZE",
+      "zone_name":"Asia\/Baku",
+      "offset":"GMT 04:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Bosnia and Herzegovina",
+      "iso_code":"BA",
+      "iso_code_3":"BIH",
+      "zone_name":"Europe\/Sarajevo",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Barbados",
+      "iso_code":"BB",
+      "iso_code_3":"BRB",
+      "zone_name":"America\/Barbados",
+      "offset":"GMT -04:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Bangladesh",
+      "iso_code":"BD",
+      "iso_code_3":"BGD",
+      "zone_name":"Asia\/Dhaka",
+      "offset":"GMT 06:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Belgium",
+      "iso_code":"BE",
+      "iso_code_3":"BEL",
+      "zone_name":"Europe\/Brussels",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Burkina Faso",
+      "iso_code":"BF",
+      "iso_code_3":"BFA",
+      "zone_name":"Africa\/Ouagadougou",
+      "offset":"GMT 00:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Bulgaria",
+      "iso_code":"BG",
+      "iso_code_3":"BGR",
+      "zone_name":"Europe\/Sofia",
+      "offset":"GMT 02:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Bahrain",
+      "iso_code":"BH",
+      "iso_code_3":"BHR",
+      "zone_name":"Asia\/Bahrain",
+      "offset":"GMT 03:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Burundi",
+      "iso_code":"BI",
+      "iso_code_3":"BDI",
+      "zone_name":"Africa\/Bujumbura",
+      "offset":"GMT 02:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Benin",
+      "iso_code":"BJ",
+      "iso_code_3":"BEN",
+      "zone_name":"Africa\/Porto-Novo",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Saint Barth\u00e9lemy",
+      "iso_code":"BL",
+      "iso_code_3":"BLM",
+      "zone_name":"America\/St_Barthelemy",
+      "offset":"GMT -04:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Bermuda",
+      "iso_code":"BM",
+      "iso_code_3":"BMU",
+      "zone_name":"Atlantic\/Bermuda",
+      "offset":"GMT -04:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Brunei",
+      "iso_code":"BN",
+      "iso_code_3":"BRN",
+      "zone_name":"Asia\/Brunei",
+      "offset":"GMT 08:00"
+   },
+   {  
+      "continent_name":"South America",
+      "country_name":"Bolivia",
+      "iso_code":"BO",
+      "iso_code_3":"BOL",
+      "zone_name":"America\/La_Paz",
+      "offset":"GMT -04:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Bonaire",
+      "iso_code":"BQ",
+      "iso_code_3":"BES",
+      "zone_name":"America\/Kralendijk",
+      "offset":"GMT -04:00"
+   },
+   {  
+      "continent_name":"South America",
+      "country_name":"Brazil",
+      "iso_code":"BR",
+      "iso_code_3":"BRA",
+      "zone_name":"America\/Cuiaba",
+      "offset":"GMT -03:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Bahamas",
+      "iso_code":"BS",
+      "iso_code_3":"BHS",
+      "zone_name":"America\/Nassau",
+      "offset":"GMT -05:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Bhutan",
+      "iso_code":"BT",
+      "iso_code_3":"BTN",
+      "zone_name":"Asia\/Thimphu",
+      "offset":"GMT 06:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Botswana",
+      "iso_code":"BW",
+      "iso_code_3":"BWA",
+      "zone_name":"Africa\/Gaborone",
+      "offset":"GMT 02:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Belarus",
+      "iso_code":"BY",
+      "iso_code_3":"BLR",
+      "zone_name":"Europe\/Minsk",
+      "offset":"GMT 03:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Belize",
+      "iso_code":"BZ",
+      "iso_code_3":"BLZ",
+      "zone_name":"America\/Belize",
+      "offset":"GMT -06:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Canada",
+      "iso_code":"CA",
+      "iso_code_3":"CAN",
+      "zone_name":"America\/Regina",
+      "offset":"GMT -06:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Cocos [Keeling] Islands",
+      "iso_code":"CC",
+      "iso_code_3":"CCK",
+      "zone_name":"Indian\/Cocos",
+      "offset":"GMT 06:30"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Democratic Republic of the Congo",
+      "iso_code":"CD",
+      "iso_code_3":"COD",
+      "zone_name":"Africa\/Lubumbashi",
+      "offset":"GMT 02:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Central African Republic",
+      "iso_code":"CF",
+      "iso_code_3":"CAF",
+      "zone_name":"Africa\/Bangui",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Republic of the Congo",
+      "iso_code":"CG",
+      "iso_code_3":"COG",
+      "zone_name":"Africa\/Brazzaville",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Switzerland",
+      "iso_code":"CH",
+      "iso_code_3":"CHE",
+      "zone_name":"Europe\/Zurich",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Ivory Coast",
+      "iso_code":"CI",
+      "iso_code_3":"CIV",
+      "zone_name":"Africa\/Abidjan",
+      "offset":"GMT 00:00"
+   },
+   {  
+      "continent_name":"Oceania",
+      "country_name":"Cook Islands",
+      "iso_code":"CK",
+      "iso_code_3":"COK",
+      "zone_name":"Pacific\/Rarotonga",
+      "offset":"GMT -10:00"
+   },
+   {  
+      "continent_name":"South America",
+      "country_name":"Chile",
+      "iso_code":"CL",
+      "iso_code_3":"CHL",
+      "zone_name":"America\/Santiago",
+      "offset":"GMT -03:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Cameroon",
+      "iso_code":"CM",
+      "iso_code_3":"CMR",
+      "zone_name":"Africa\/Douala",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"China",
+      "iso_code":"CN",
+      "iso_code_3":"CHN",
+      "zone_name":"Asia\/Shanghai",
+      "offset":"GMT 08:00"
+   },
+   {  
+      "continent_name":"South America",
+      "country_name":"Colombia",
+      "iso_code":"CO",
+      "iso_code_3":"COL",
+      "zone_name":"America\/Bogota",
+      "offset":"GMT -05:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Costa Rica",
+      "iso_code":"CR",
+      "iso_code_3":"CRI",
+      "zone_name":"America\/Costa_Rica",
+      "offset":"GMT -06:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Cuba",
+      "iso_code":"CU",
+      "iso_code_3":"CUB",
+      "zone_name":"America\/Havana",
+      "offset":"GMT -05:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Cape Verde",
+      "iso_code":"CV",
+      "iso_code_3":"CPV",
+      "zone_name":"Atlantic\/Cape_Verde",
+      "offset":"GMT -01:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Curacao",
+      "iso_code":"CW",
+      "iso_code_3":"CUW",
+      "zone_name":"America\/Curacao",
+      "offset":"GMT -04:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Christmas Island",
+      "iso_code":"CX",
+      "iso_code_3":"CXR",
+      "zone_name":"Indian\/Christmas",
+      "offset":"GMT 07:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Cyprus",
+      "iso_code":"CY",
+      "iso_code_3":"CYP",
+      "zone_name":"Asia\/Nicosia",
+      "offset":"GMT 02:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Czechia",
+      "iso_code":"CZ",
+      "iso_code_3":"CZE",
+      "zone_name":"Europe\/Prague",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Germany",
+      "iso_code":"DE",
+      "iso_code_3":"DEU",
+      "zone_name":"Europe\/Berlin",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Djibouti",
+      "iso_code":"DJ",
+      "iso_code_3":"DJI",
+      "zone_name":"Africa\/Djibouti",
+      "offset":"GMT 03:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Denmark",
+      "iso_code":"DK",
+      "iso_code_3":"DNK",
+      "zone_name":"Europe\/Copenhagen",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Dominica",
+      "iso_code":"DM",
+      "iso_code_3":"DMA",
+      "zone_name":"America\/Dominica",
+      "offset":"GMT -04:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Dominican Republic",
+      "iso_code":"DO",
+      "iso_code_3":"DOM",
+      "zone_name":"America\/Santo_Domingo",
+      "offset":"GMT -04:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Algeria",
+      "iso_code":"DZ",
+      "iso_code_3":"DZA",
+      "zone_name":"Africa\/Algiers",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"South America",
+      "country_name":"Ecuador",
+      "iso_code":"EC",
+      "iso_code_3":"ECU",
+      "zone_name":"America\/Guayaquil",
+      "offset":"GMT -05:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Estonia",
+      "iso_code":"EE",
+      "iso_code_3":"EST",
+      "zone_name":"Europe\/Tallinn",
+      "offset":"GMT 02:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Egypt",
+      "iso_code":"EG",
+      "iso_code_3":"EGY",
+      "zone_name":"Africa\/Cairo",
+      "offset":"GMT 02:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Western Sahara",
+      "iso_code":"EH",
+      "iso_code_3":"ESH",
+      "zone_name":"Africa\/El_Aaiun",
+      "offset":"GMT 00:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Eritrea",
+      "iso_code":"ER",
+      "iso_code_3":"ERI",
+      "zone_name":"Africa\/Asmara",
+      "offset":"GMT 03:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Spain",
+      "iso_code":"ES",
+      "iso_code_3":"ESP",
+      "zone_name":"Europe\/Madrid",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Ethiopia",
+      "iso_code":"ET",
+      "iso_code_3":"ETH",
+      "zone_name":"Africa\/Addis_Ababa",
+      "offset":"GMT 03:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Finland",
+      "iso_code":"FI",
+      "iso_code_3":"FIN",
+      "zone_name":"Europe\/Helsinki",
+      "offset":"GMT 02:00"
+   },
+   {  
+      "continent_name":"Oceania",
+      "country_name":"Fiji",
+      "iso_code":"FJ",
+      "iso_code_3":"FJI",
+      "zone_name":"Pacific\/Fiji",
+      "offset":"GMT 13:00"
+   },
+   {  
+      "continent_name":"South America",
+      "country_name":"Falkland Islands",
+      "iso_code":"FK",
+      "iso_code_3":"FLK",
+      "zone_name":"Atlantic\/Stanley",
+      "offset":"GMT -03:00"
+   },
+   {  
+      "continent_name":"Oceania",
+      "country_name":"Micronesia",
+      "iso_code":"FM",
+      "iso_code_3":"FSM",
+      "zone_name":"Pacific\/Pohnpei",
+      "offset":"GMT 11:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Faroe Islands",
+      "iso_code":"FO",
+      "iso_code_3":"FRO",
+      "zone_name":"Atlantic\/Faroe",
+      "offset":"GMT 00:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"France",
+      "iso_code":"FR",
+      "iso_code_3":"FRA",
+      "zone_name":"Europe\/Paris",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Gabon",
+      "iso_code":"GA",
+      "iso_code_3":"GAB",
+      "zone_name":"Africa\/Libreville",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"United Kingdom",
+      "iso_code":"GB",
+      "iso_code_3":"GBR",
+      "zone_name":"Europe\/London",
+      "offset":"GMT 00:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Grenada",
+      "iso_code":"GD",
+      "iso_code_3":"GRD",
+      "zone_name":"America\/Grenada",
+      "offset":"GMT -04:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Georgia",
+      "iso_code":"GE",
+      "iso_code_3":"GEO",
+      "zone_name":"America\/New_York",
+      "offset":"GMT -05:00"
+   },
+   {  
+      "continent_name":"South America",
+      "country_name":"French Guiana",
+      "iso_code":"GF",
+      "iso_code_3":"GUF",
+      "zone_name":"America\/Cayenne",
+      "offset":"GMT -03:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Guernsey",
+      "iso_code":"GG",
+      "iso_code_3":"GGY",
+      "zone_name":"Europe\/Guernsey",
+      "offset":"GMT 00:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Ghana",
+      "iso_code":"GH",
+      "iso_code_3":"GHA",
+      "zone_name":"Africa\/Accra",
+      "offset":"GMT 00:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Gibraltar",
+      "iso_code":"GI",
+      "iso_code_3":"GIB",
+      "zone_name":"Europe\/Gibraltar",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Greenland",
+      "iso_code":"GL",
+      "iso_code_3":"GRL",
+      "zone_name":"America\/Godthab",
+      "offset":"GMT -03:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Gambia",
+      "iso_code":"GM",
+      "iso_code_3":"GMB",
+      "zone_name":"Africa\/Banjul",
+      "offset":"GMT 00:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Guinea",
+      "iso_code":"GN",
+      "iso_code_3":"GIN",
+      "zone_name":"Africa\/Conakry",
+      "offset":"GMT 00:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Guadeloupe",
+      "iso_code":"GP",
+      "iso_code_3":"GLP",
+      "zone_name":"America\/Guadeloupe",
+      "offset":"GMT -04:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Equatorial Guinea",
+      "iso_code":"GQ",
+      "iso_code_3":"GNQ",
+      "zone_name":"Africa\/Malabo",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Greece",
+      "iso_code":"GR",
+      "iso_code_3":"GRC",
+      "zone_name":"Europe\/Athens",
+      "offset":"GMT 02:00"
+   },
+   {  
+      "continent_name":"Antarctica",
+      "country_name":"South Georgia and the South Sandwich Islands",
+      "iso_code":"GS",
+      "iso_code_3":"SGS",
+      "zone_name":"Atlantic\/South_Georgia",
+      "offset":"GMT -02:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Guatemala",
+      "iso_code":"GT",
+      "iso_code_3":"GTM",
+      "zone_name":"America\/Guatemala",
+      "offset":"GMT -06:00"
+   },
+   {  
+      "continent_name":"Oceania",
+      "country_name":"Guam",
+      "iso_code":"GU",
+      "iso_code_3":"GUM",
+      "zone_name":"Pacific\/Guam",
+      "offset":"GMT 10:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Guinea-Bissau",
+      "iso_code":"GW",
+      "iso_code_3":"GNB",
+      "zone_name":"Africa\/Bissau",
+      "offset":"GMT 00:00"
+   },
+   {  
+      "continent_name":"South America",
+      "country_name":"Guyana",
+      "iso_code":"GY",
+      "iso_code_3":"GUY",
+      "zone_name":"America\/Guyana",
+      "offset":"GMT -04:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Hong Kong",
+      "iso_code":"HK",
+      "iso_code_3":"HKG",
+      "zone_name":"Asia\/Hong_Kong",
+      "offset":"GMT 08:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Honduras",
+      "iso_code":"HN",
+      "iso_code_3":"HND",
+      "zone_name":"America\/Tegucigalpa",
+      "offset":"GMT -06:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Croatia",
+      "iso_code":"HR",
+      "iso_code_3":"HRV",
+      "zone_name":"Europe\/Zagreb",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Haiti",
+      "iso_code":"HT",
+      "iso_code_3":"HTI",
+      "zone_name":"America\/Port-au-Prince",
+      "offset":"GMT -05:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Hungary",
+      "iso_code":"HU",
+      "iso_code_3":"HUN",
+      "zone_name":"Europe\/Budapest",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Indonesia",
+      "iso_code":"ID",
+      "iso_code_3":"IDN",
+      "zone_name":"Asia\/Pontianak",
+      "offset":"GMT 07:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Ireland",
+      "iso_code":"IE",
+      "iso_code_3":"IRL",
+      "zone_name":"Europe\/Dublin",
+      "offset":"GMT 00:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Israel",
+      "iso_code":"IL",
+      "iso_code_3":"ISR",
+      "zone_name":"Asia\/Jerusalem",
+      "offset":"GMT 02:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Isle of Man",
+      "iso_code":"IM",
+      "iso_code_3":"IMN",
+      "zone_name":"Europe\/Isle_of_Man",
+      "offset":"GMT 00:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"India",
+      "iso_code":"IN",
+      "iso_code_3":"IND",
+      "zone_name":"Asia\/Kolkata",
+      "offset":"GMT 05:30"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"British Indian Ocean Territory",
+      "iso_code":"IO",
+      "iso_code_3":"IOT",
+      "zone_name":"Indian\/Chagos",
+      "offset":"GMT 06:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Iraq",
+      "iso_code":"IQ",
+      "iso_code_3":"IRQ",
+      "zone_name":"Asia\/Baghdad",
+      "offset":"GMT 03:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Iran",
+      "iso_code":"IR",
+      "iso_code_3":"IRN",
+      "zone_name":"Asia\/Tehran",
+      "offset":"GMT 03:30"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Iceland",
+      "iso_code":"IS",
+      "iso_code_3":"ISL",
+      "zone_name":"Atlantic\/Reykjavik",
+      "offset":"GMT 00:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Italy",
+      "iso_code":"IT",
+      "iso_code_3":"ITA",
+      "zone_name":"Europe\/Rome",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Jersey",
+      "iso_code":"JE",
+      "iso_code_3":"JEY",
+      "zone_name":"Europe\/Jersey",
+      "offset":"GMT 00:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Jamaica",
+      "iso_code":"JM",
+      "iso_code_3":"JAM",
+      "zone_name":"America\/Jamaica",
+      "offset":"GMT -05:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Jordan",
+      "iso_code":"JO",
+      "iso_code_3":"JOR",
+      "zone_name":"Asia\/Amman",
+      "offset":"GMT 02:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Japan",
+      "iso_code":"JP",
+      "iso_code_3":"JPN",
+      "zone_name":"Asia\/Tokyo",
+      "offset":"GMT 09:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Kenya",
+      "iso_code":"KE",
+      "iso_code_3":"KEN",
+      "zone_name":"Africa\/Nairobi",
+      "offset":"GMT 03:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Kyrgyzstan",
+      "iso_code":"KG",
+      "iso_code_3":"KGZ",
+      "zone_name":"Asia\/Bishkek",
+      "offset":"GMT 06:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Cambodia",
+      "iso_code":"KH",
+      "iso_code_3":"KHM",
+      "zone_name":"Asia\/Phnom_Penh",
+      "offset":"GMT 07:00"
+   },
+   {  
+      "continent_name":"Oceania",
+      "country_name":"Kiribati",
+      "iso_code":"KI",
+      "iso_code_3":"KIR",
+      "zone_name":"Pacific\/Kiritimati",
+      "offset":"GMT 14:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Comoros",
+      "iso_code":"KM",
+      "iso_code_3":"COM",
+      "zone_name":"Indian\/Comoro",
+      "offset":"GMT 03:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Saint Kitts and Nevis",
+      "iso_code":"KN",
+      "iso_code_3":"KNA",
+      "zone_name":"America\/St_Kitts",
+      "offset":"GMT -04:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"North Korea",
+      "iso_code":"KP",
+      "iso_code_3":"PRK",
+      "zone_name":"Asia\/Pyongyang",
+      "offset":"GMT 08:30"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"South Korea",
+      "iso_code":"KR",
+      "iso_code_3":"KOR",
+      "zone_name":"Asia\/Seoul",
+      "offset":"GMT 09:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Kuwait",
+      "iso_code":"KW",
+      "iso_code_3":"KWT",
+      "zone_name":"Asia\/Kuwait",
+      "offset":"GMT 03:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Cayman Islands",
+      "iso_code":"KY",
+      "iso_code_3":"CYM",
+      "zone_name":"America\/Cayman",
+      "offset":"GMT -05:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Kazakhstan",
+      "iso_code":"KZ",
+      "iso_code_3":"KAZ",
+      "zone_name":"Asia\/Almaty",
+      "offset":"GMT 06:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Laos",
+      "iso_code":"LA",
+      "iso_code_3":"LAO",
+      "zone_name":"Asia\/Vientiane",
+      "offset":"GMT 07:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Lebanon",
+      "iso_code":"LB",
+      "iso_code_3":"LBN",
+      "zone_name":"Asia\/Beirut",
+      "offset":"GMT 02:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Saint Lucia",
+      "iso_code":"LC",
+      "iso_code_3":"LCA",
+      "zone_name":"America\/St_Lucia",
+      "offset":"GMT -04:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Liechtenstein",
+      "iso_code":"LI",
+      "iso_code_3":"LIE",
+      "zone_name":"Europe\/Vaduz",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Sri Lanka",
+      "iso_code":"LK",
+      "iso_code_3":"LKA",
+      "zone_name":"Asia\/Colombo",
+      "offset":"GMT 05:30"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Liberia",
+      "iso_code":"LR",
+      "iso_code_3":"LBR",
+      "zone_name":"Africa\/Monrovia",
+      "offset":"GMT 00:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Lesotho",
+      "iso_code":"LS",
+      "iso_code_3":"LSO",
+      "zone_name":"Africa\/Maseru",
+      "offset":"GMT 02:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Lithuania",
+      "iso_code":"LT",
+      "iso_code_3":"LTU",
+      "zone_name":"Europe\/Vilnius",
+      "offset":"GMT 02:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Luxembourg",
+      "iso_code":"LU",
+      "iso_code_3":"LUX",
+      "zone_name":"Europe\/Luxembourg",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Latvia",
+      "iso_code":"LV",
+      "iso_code_3":"LVA",
+      "zone_name":"Europe\/Riga",
+      "offset":"GMT 02:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Libya",
+      "iso_code":"LY",
+      "iso_code_3":"LBY",
+      "zone_name":"Africa\/Tripoli",
+      "offset":"GMT 02:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Morocco",
+      "iso_code":"MA",
+      "iso_code_3":"MAR",
+      "zone_name":"Africa\/Casablanca",
+      "offset":"GMT 00:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Monaco",
+      "iso_code":"MC",
+      "iso_code_3":"MCO",
+      "zone_name":"Europe\/Monaco",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Moldova",
+      "iso_code":"MD",
+      "iso_code_3":"MDA",
+      "zone_name":"Europe\/Chisinau",
+      "offset":"GMT 02:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Montenegro",
+      "iso_code":"ME",
+      "iso_code_3":"MNE",
+      "zone_name":"Europe\/Podgorica",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Saint Martin",
+      "iso_code":"MF",
+      "iso_code_3":"MAF",
+      "zone_name":"America\/Marigot",
+      "offset":"GMT -04:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Madagascar",
+      "iso_code":"MG",
+      "iso_code_3":"MDG",
+      "zone_name":"Indian\/Antananarivo",
+      "offset":"GMT 03:00"
+   },
+   {  
+      "continent_name":"Oceania",
+      "country_name":"Marshall Islands",
+      "iso_code":"MH",
+      "iso_code_3":"MHL",
+      "zone_name":"Pacific\/Kwajalein",
+      "offset":"GMT 12:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Macedonia",
+      "iso_code":"MK",
+      "iso_code_3":"MKD",
+      "zone_name":"Europe\/Skopje",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Mali",
+      "iso_code":"ML",
+      "iso_code_3":"MLI",
+      "zone_name":"Africa\/Bamako",
+      "offset":"GMT 00:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Myanmar [Burma]",
+      "iso_code":"MM",
+      "iso_code_3":"MMR",
+      "zone_name":"Asia\/Rangoon",
+      "offset":"GMT 06:30"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Mongolia",
+      "iso_code":"MN",
+      "iso_code_3":"MNG",
+      "zone_name":"Asia\/Ulaanbaatar",
+      "offset":"GMT 08:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Macao",
+      "iso_code":"MO",
+      "iso_code_3":"MAC",
+      "zone_name":"Asia\/Macau",
+      "offset":"GMT 08:00"
+   },
+   {  
+      "continent_name":"Oceania",
+      "country_name":"Northern Mariana Islands",
+      "iso_code":"MP",
+      "iso_code_3":"MNP",
+      "zone_name":"Pacific\/Saipan",
+      "offset":"GMT 10:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Martinique",
+      "iso_code":"MQ",
+      "iso_code_3":"MTQ",
+      "zone_name":"America\/Martinique",
+      "offset":"GMT -04:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Mauritania",
+      "iso_code":"MR",
+      "iso_code_3":"MRT",
+      "zone_name":"Africa\/Nouakchott",
+      "offset":"GMT 00:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Montserrat",
+      "iso_code":"MS",
+      "iso_code_3":"MSR",
+      "zone_name":"America\/Montserrat",
+      "offset":"GMT -04:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Malta",
+      "iso_code":"MT",
+      "iso_code_3":"MLT",
+      "zone_name":"Europe\/Malta",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Mauritius",
+      "iso_code":"MU",
+      "iso_code_3":"MUS",
+      "zone_name":"Indian\/Mauritius",
+      "offset":"GMT 04:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Maldives",
+      "iso_code":"MV",
+      "iso_code_3":"MDV",
+      "zone_name":"Indian\/Maldives",
+      "offset":"GMT 05:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Malawi",
+      "iso_code":"MW",
+      "iso_code_3":"MWI",
+      "zone_name":"Africa\/Blantyre",
+      "offset":"GMT 02:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Mexico",
+      "iso_code":"MX",
+      "iso_code_3":"MEX",
+      "zone_name":"America\/Mexico_City",
+      "offset":"GMT -06:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Malaysia",
+      "iso_code":"MY",
+      "iso_code_3":"MYS",
+      "zone_name":"Asia\/Kuala_Lumpur",
+      "offset":"GMT 08:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Mozambique",
+      "iso_code":"MZ",
+      "iso_code_3":"MOZ",
+      "zone_name":"Africa\/Maputo",
+      "offset":"GMT 02:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Namibia",
+      "iso_code":"NA",
+      "iso_code_3":"NAM",
+      "zone_name":"Africa\/Windhoek",
+      "offset":"GMT 02:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Niger",
+      "iso_code":"NE",
+      "iso_code_3":"NER",
+      "zone_name":"Africa\/Niamey",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"Oceania",
+      "country_name":"Norfolk Island",
+      "iso_code":"NF",
+      "iso_code_3":"NFK",
+      "zone_name":"Pacific\/Norfolk",
+      "offset":"GMT 11:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Nigeria",
+      "iso_code":"NG",
+      "iso_code_3":"NGA",
+      "zone_name":"Africa\/Lagos",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Nicaragua",
+      "iso_code":"NI",
+      "iso_code_3":"NIC",
+      "zone_name":"America\/Managua",
+      "offset":"GMT -06:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Netherlands",
+      "iso_code":"NL",
+      "iso_code_3":"NLD",
+      "zone_name":"Europe\/Amsterdam",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Norway",
+      "iso_code":"NO",
+      "iso_code_3":"NOR",
+      "zone_name":"Europe\/Oslo",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Nepal",
+      "iso_code":"NP",
+      "iso_code_3":"NPL",
+      "zone_name":"Asia\/Kathmandu",
+      "offset":"GMT 05:45"
+   },
+   {  
+      "continent_name":"Oceania",
+      "country_name":"Nauru",
+      "iso_code":"NR",
+      "iso_code_3":"NRU",
+      "zone_name":"Pacific\/Nauru",
+      "offset":"GMT 12:00"
+   },
+   {  
+      "continent_name":"Oceania",
+      "country_name":"Niue",
+      "iso_code":"NU",
+      "iso_code_3":"NIU",
+      "zone_name":"Pacific\/Niue",
+      "offset":"GMT -11:00"
+   },
+   {  
+      "continent_name":"Oceania",
+      "country_name":"New Zealand",
+      "iso_code":"NZ",
+      "iso_code_3":"NZL",
+      "zone_name":"Pacific\/Auckland",
+      "offset":"GMT 13:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Oman",
+      "iso_code":"OM",
+      "iso_code_3":"OMN",
+      "zone_name":"Asia\/Muscat",
+      "offset":"GMT 04:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Panama",
+      "iso_code":"PA",
+      "iso_code_3":"PAN",
+      "zone_name":"America\/Panama",
+      "offset":"GMT -05:00"
+   },
+   {  
+      "continent_name":"South America",
+      "country_name":"Peru",
+      "iso_code":"PE",
+      "iso_code_3":"PER",
+      "zone_name":"America\/Lima",
+      "offset":"GMT -05:00"
+   },
+   {  
+      "continent_name":"Oceania",
+      "country_name":"French Polynesia",
+      "iso_code":"PF",
+      "iso_code_3":"PYF",
+      "zone_name":"Pacific\/Tahiti",
+      "offset":"GMT -10:00"
+   },
+   {  
+      "continent_name":"Oceania",
+      "country_name":"Papua New Guinea",
+      "iso_code":"PG",
+      "iso_code_3":"PNG",
+      "zone_name":"Pacific\/Port_Moresby",
+      "offset":"GMT 10:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Philippines",
+      "iso_code":"PH",
+      "iso_code_3":"PHL",
+      "zone_name":"Asia\/Manila",
+      "offset":"GMT 08:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Pakistan",
+      "iso_code":"PK",
+      "iso_code_3":"PAK",
+      "zone_name":"Asia\/Karachi",
+      "offset":"GMT 05:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Poland",
+      "iso_code":"PL",
+      "iso_code_3":"POL",
+      "zone_name":"Europe\/Warsaw",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Saint Pierre and Miquelon",
+      "iso_code":"PM",
+      "iso_code_3":"SPM",
+      "zone_name":"America\/Miquelon",
+      "offset":"GMT -03:00"
+   },
+   {  
+      "continent_name":"Oceania",
+      "country_name":"Pitcairn Islands",
+      "iso_code":"PN",
+      "iso_code_3":"PCN",
+      "zone_name":"Pacific\/Pitcairn",
+      "offset":"GMT -08:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Puerto Rico",
+      "iso_code":"PR",
+      "iso_code_3":"PRI",
+      "zone_name":"America\/Puerto_Rico",
+      "offset":"GMT -04:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Palestine",
+      "iso_code":"PS",
+      "iso_code_3":"PSE",
+      "zone_name":"America\/Chicago",
+      "offset":"GMT -06:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Portugal",
+      "iso_code":"PT",
+      "iso_code_3":"PRT",
+      "zone_name":"Europe\/Lisbon",
+      "offset":"GMT 00:00"
+   },
+   {  
+      "continent_name":"Oceania",
+      "country_name":"Palau",
+      "iso_code":"PW",
+      "iso_code_3":"PLW",
+      "zone_name":"Pacific\/Palau",
+      "offset":"GMT 09:00"
+   },
+   {  
+      "continent_name":"South America",
+      "country_name":"Paraguay",
+      "iso_code":"PY",
+      "iso_code_3":"PRY",
+      "zone_name":"America\/Asuncion",
+      "offset":"GMT -03:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Qatar",
+      "iso_code":"QA",
+      "iso_code_3":"QAT",
+      "zone_name":"Asia\/Qatar",
+      "offset":"GMT 03:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"R\u00e9union",
+      "iso_code":"RE",
+      "iso_code_3":"REU",
+      "zone_name":"Indian\/Reunion",
+      "offset":"GMT 04:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Romania",
+      "iso_code":"RO",
+      "iso_code_3":"ROU",
+      "zone_name":"Europe\/Bucharest",
+      "offset":"GMT 02:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Serbia",
+      "iso_code":"RS",
+      "iso_code_3":"SRB",
+      "zone_name":"Europe\/Belgrade",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Russia",
+      "iso_code":"RU",
+      "iso_code_3":"RUS",
+      "zone_name":"Asia\/Krasnoyarsk",
+      "offset":"GMT 07:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Rwanda",
+      "iso_code":"RW",
+      "iso_code_3":"RWA",
+      "zone_name":"Africa\/Kigali",
+      "offset":"GMT 02:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Saudi Arabia",
+      "iso_code":"SA",
+      "iso_code_3":"SAU",
+      "zone_name":"Asia\/Riyadh",
+      "offset":"GMT 03:00"
+   },
+   {  
+      "continent_name":"Oceania",
+      "country_name":"Solomon Islands",
+      "iso_code":"SB",
+      "iso_code_3":"SLB",
+      "zone_name":"Pacific\/Guadalcanal",
+      "offset":"GMT 11:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Seychelles",
+      "iso_code":"SC",
+      "iso_code_3":"SYC",
+      "zone_name":"Indian\/Mahe",
+      "offset":"GMT 04:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Sudan",
+      "iso_code":"SD",
+      "iso_code_3":"SDN",
+      "zone_name":"Africa\/Khartoum",
+      "offset":"GMT 03:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Sweden",
+      "iso_code":"SE",
+      "iso_code_3":"SWE",
+      "zone_name":"Europe\/Stockholm",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Singapore",
+      "iso_code":"SG",
+      "iso_code_3":"SGP",
+      "zone_name":"Asia\/Singapore",
+      "offset":"GMT 08:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Saint Helena",
+      "iso_code":"SH",
+      "iso_code_3":"SHN",
+      "zone_name":"America\/Los_Angeles",
+      "offset":"GMT -08:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Slovenia",
+      "iso_code":"SI",
+      "iso_code_3":"SVN",
+      "zone_name":"Europe\/Ljubljana",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Svalbard and Jan Mayen",
+      "iso_code":"SJ",
+      "iso_code_3":"SJM",
+      "zone_name":"Europe\/Oslo",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Slovakia",
+      "iso_code":"SK",
+      "iso_code_3":"SVK",
+      "zone_name":"Europe\/Bratislava",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Sierra Leone",
+      "iso_code":"SL",
+      "iso_code_3":"SLE",
+      "zone_name":"Africa\/Freetown",
+      "offset":"GMT 00:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"San Marino",
+      "iso_code":"SM",
+      "iso_code_3":"SMR",
+      "zone_name":"Europe\/San_Marino",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Senegal",
+      "iso_code":"SN",
+      "iso_code_3":"SEN",
+      "zone_name":"Africa\/Dakar",
+      "offset":"GMT 00:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Somalia",
+      "iso_code":"SO",
+      "iso_code_3":"SOM",
+      "zone_name":"Africa\/Mogadishu",
+      "offset":"GMT 03:00"
+   },
+   {  
+      "continent_name":"South America",
+      "country_name":"Suriname",
+      "iso_code":"SR",
+      "iso_code_3":"SUR",
+      "zone_name":"America\/Paramaribo",
+      "offset":"GMT -03:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"South Sudan",
+      "iso_code":"SS",
+      "iso_code_3":"SSD",
+      "zone_name":"Africa\/Juba",
+      "offset":"GMT 03:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"El Salvador",
+      "iso_code":"SV",
+      "iso_code_3":"SLV",
+      "zone_name":"America\/El_Salvador",
+      "offset":"GMT -06:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Sint Maarten",
+      "iso_code":"SX",
+      "iso_code_3":"SXM",
+      "zone_name":"America\/Lower_Princes",
+      "offset":"GMT -04:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Syria",
+      "iso_code":"SY",
+      "iso_code_3":"SYR",
+      "zone_name":"Asia\/Damascus",
+      "offset":"GMT 02:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Swaziland",
+      "iso_code":"SZ",
+      "iso_code_3":"SWZ",
+      "zone_name":"Africa\/Mbabane",
+      "offset":"GMT 02:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Turks and Caicos Islands",
+      "iso_code":"TC",
+      "iso_code_3":"TCA",
+      "zone_name":"America\/Grand_Turk",
+      "offset":"GMT -04:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Chad",
+      "iso_code":"TD",
+      "iso_code_3":"TCD",
+      "zone_name":"Africa\/Ndjamena",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"Antarctica",
+      "country_name":"French Southern Territories",
+      "iso_code":"TF",
+      "iso_code_3":"ATF",
+      "zone_name":"Indian\/Kerguelen",
+      "offset":"GMT 05:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Togo",
+      "iso_code":"TG",
+      "iso_code_3":"TGO",
+      "zone_name":"Africa\/Lome",
+      "offset":"GMT 00:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Thailand",
+      "iso_code":"TH",
+      "iso_code_3":"THA",
+      "zone_name":"Asia\/Bangkok",
+      "offset":"GMT 07:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Tajikistan",
+      "iso_code":"TJ",
+      "iso_code_3":"TJK",
+      "zone_name":"Asia\/Dushanbe",
+      "offset":"GMT 05:00"
+   },
+   {  
+      "continent_name":"Oceania",
+      "country_name":"Tokelau",
+      "iso_code":"TK",
+      "iso_code_3":"TKL",
+      "zone_name":"Pacific\/Fakaofo",
+      "offset":"GMT 13:00"
+   },
+   {  
+      "continent_name":"Oceania",
+      "country_name":"East Timor",
+      "iso_code":"TL",
+      "iso_code_3":"TLS",
+      "zone_name":"Asia\/Dili",
+      "offset":"GMT 09:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Turkmenistan",
+      "iso_code":"TM",
+      "iso_code_3":"TKM",
+      "zone_name":"Asia\/Ashgabat",
+      "offset":"GMT 05:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Tunisia",
+      "iso_code":"TN",
+      "iso_code_3":"TUN",
+      "zone_name":"Africa\/Tunis",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"Oceania",
+      "country_name":"Tonga",
+      "iso_code":"TO",
+      "iso_code_3":"TON",
+      "zone_name":"Pacific\/Tongatapu",
+      "offset":"GMT 14:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Turkey",
+      "iso_code":"TR",
+      "iso_code_3":"TUR",
+      "zone_name":"Europe\/Istanbul",
+      "offset":"GMT 03:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Trinidad and Tobago",
+      "iso_code":"TT",
+      "iso_code_3":"TTO",
+      "zone_name":"America\/Port_of_Spain",
+      "offset":"GMT -04:00"
+   },
+   {  
+      "continent_name":"Oceania",
+      "country_name":"Tuvalu",
+      "iso_code":"TV",
+      "iso_code_3":"TUV",
+      "zone_name":"Pacific\/Funafuti",
+      "offset":"GMT 12:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Taiwan",
+      "iso_code":"TW",
+      "iso_code_3":"TWN",
+      "zone_name":"Asia\/Taipei",
+      "offset":"GMT 08:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Tanzania",
+      "iso_code":"TZ",
+      "iso_code_3":"TZA",
+      "zone_name":"Africa\/Dar_es_Salaam",
+      "offset":"GMT 03:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Ukraine",
+      "iso_code":"UA",
+      "iso_code_3":"UKR",
+      "zone_name":"Europe\/Kiev",
+      "offset":"GMT 02:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Uganda",
+      "iso_code":"UG",
+      "iso_code_3":"UGA",
+      "zone_name":"Africa\/Kampala",
+      "offset":"GMT 03:00"
+   },
+   {  
+      "continent_name":"Oceania",
+      "country_name":"U.S. Minor Outlying Islands",
+      "iso_code":"UM",
+      "iso_code_3":"UMI",
+      "zone_name":"Pacific\/Wake",
+      "offset":"GMT 12:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"United States",
+      "iso_code":"US",
+      "iso_code_3":"USA",
+      "zone_name":"America\/Chicago",
+      "offset":"GMT -06:00"
+   },
+   {  
+      "continent_name":"South America",
+      "country_name":"Uruguay",
+      "iso_code":"UY",
+      "iso_code_3":"URY",
+      "zone_name":"America\/Montevideo",
+      "offset":"GMT -03:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Uzbekistan",
+      "iso_code":"UZ",
+      "iso_code_3":"UZB",
+      "zone_name":"Asia\/Samarkand",
+      "offset":"GMT 05:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Vatican City",
+      "iso_code":"VA",
+      "iso_code_3":"VAT",
+      "zone_name":"Europe\/Vatican",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"Saint Vincent and the Grenadines",
+      "iso_code":"VC",
+      "iso_code_3":"VCT",
+      "zone_name":"America\/St_Vincent",
+      "offset":"GMT -04:00"
+   },
+   {  
+      "continent_name":"South America",
+      "country_name":"Venezuela",
+      "iso_code":"VE",
+      "iso_code_3":"VEN",
+      "zone_name":"America\/Caracas",
+      "offset":"GMT -04:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"British Virgin Islands",
+      "iso_code":"VG",
+      "iso_code_3":"VGB",
+      "zone_name":"America\/Tortola",
+      "offset":"GMT -04:00"
+   },
+   {  
+      "continent_name":"North America",
+      "country_name":"U.S. Virgin Islands",
+      "iso_code":"VI",
+      "iso_code_3":"VIR",
+      "zone_name":"America\/St_Thomas",
+      "offset":"GMT -04:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Vietnam",
+      "iso_code":"VN",
+      "iso_code_3":"VNM",
+      "zone_name":"Asia\/Ho_Chi_Minh",
+      "offset":"GMT 07:00"
+   },
+   {  
+      "continent_name":"Oceania",
+      "country_name":"Vanuatu",
+      "iso_code":"VU",
+      "iso_code_3":"VUT",
+      "zone_name":"Pacific\/Efate",
+      "offset":"GMT 11:00"
+   },
+   {  
+      "continent_name":"Oceania",
+      "country_name":"Wallis and Futuna",
+      "iso_code":"WF",
+      "iso_code_3":"WLF",
+      "zone_name":"Pacific\/Wallis",
+      "offset":"GMT 12:00"
+   },
+   {  
+      "continent_name":"Oceania",
+      "country_name":"Samoa",
+      "iso_code":"WS",
+      "iso_code_3":"WSM",
+      "zone_name":"Pacific\/Apia",
+      "offset":"GMT 14:00"
+   },
+   {  
+      "continent_name":"Europe",
+      "country_name":"Kosovo",
+      "iso_code":"XK",
+      "iso_code_3":"XKX",
+      "zone_name":"Europe\/Belgrade",
+      "offset":"GMT 01:00"
+   },
+   {  
+      "continent_name":"Asia",
+      "country_name":"Yemen",
+      "iso_code":"YE",
+      "iso_code_3":"YEM",
+      "zone_name":"Asia\/Aden",
+      "offset":"GMT 03:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Mayotte",
+      "iso_code":"YT",
+      "iso_code_3":"MYT",
+      "zone_name":"Indian\/Mayotte",
+      "offset":"GMT 03:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"South Africa",
+      "iso_code":"ZA",
+      "iso_code_3":"ZAF",
+      "zone_name":"Africa\/Johannesburg",
+      "offset":"GMT 02:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Zambia",
+      "iso_code":"ZM",
+      "iso_code_3":"ZMB",
+      "zone_name":"Africa\/Lusaka",
+      "offset":"GMT 02:00"
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"Zimbabwe",
+      "iso_code":"ZW",
+      "iso_code_3":"ZWE",
+      "zone_name":"Africa\/Harare",
+      "offset":"GMT 02:00"
+   },
+   {  
+      "continent_name":"Antarctica",
+      "country_name":"Bouvet Island",
+      "iso_code":"BV",
+      "iso_code_3":"BVT",
+      "zone_name":null,
+      "offset":null
+   },
+   {  
+      "continent_name":"Antarctica",
+      "country_name":"Heard Island and McDonald Islands",
+      "iso_code":"HM",
+      "iso_code_3":"HMD",
+      "zone_name":null,
+      "offset":null
+   },
+   {  
+      "continent_name":"Oceania",
+      "country_name":"New Caledonia",
+      "iso_code":"NC",
+      "iso_code_3":"NCL",
+      "zone_name":null,
+      "offset":null
+   },
+   {  
+      "continent_name":"Africa",
+      "country_name":"S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+      "iso_code":"ST",
+      "iso_code_3":"STP",
+      "zone_name":null,
+      "offset":null
+   }
+]
