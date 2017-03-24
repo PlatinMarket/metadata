@@ -1972,31 +1972,31 @@
       "country_name":"Bouvet Island",
       "iso_code":"BV",
       "iso_code_3":"BVT",
-      "zone_name":null,
-      "offset":null
+      "zone_name":"Africa\/Harare",
+      "offset":"GMT -01:00"
    },
    {  
       "continent_name":"Antarctica",
       "country_name":"Heard Island and McDonald Islands",
       "iso_code":"HM",
       "iso_code_3":"HMD",
-      "zone_name":null,
-      "offset":null
+      "zone_name":"Africa\/Harare",
+      "offset":"GMT 05:00"
    },
    {  
       "continent_name":"Oceania",
       "country_name":"New Caledonia",
       "iso_code":"NC",
       "iso_code_3":"NCL",
-      "zone_name":null,
-      "offset":null
+      "zone_name":"Africa\/Harare",
+      "offset":"GMT -11:00"
    },
    {  
       "continent_name":"Africa",
-      "country_name":"S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+      "country_name":"Sao Tome ve Principe",
       "iso_code":"ST",
       "iso_code_3":"STP",
-      "zone_name":null,
-      "offset":null
+      "zone_name":"Africa\/Harare",
+      "offset":"GMT 00:00"
    }
 ]
